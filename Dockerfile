@@ -1,4 +1,4 @@
-FROM golang:1.16
+FROM golang:bookworm
 
 MAINTAINER Rick Yu <cosmtrek@gmail.com>
 
